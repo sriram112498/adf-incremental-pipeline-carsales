@@ -41,7 +41,4 @@ GitHub: [sriram112498](https://github.com/sriram112498)
 
 ---
 
-## 📜 License
-
-MIT License (or choose your preferred license)
 
